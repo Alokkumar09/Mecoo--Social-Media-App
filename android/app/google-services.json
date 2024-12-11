@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224676065631",
+    "project_id": "micoo-c5235",
+    "storage_bucket": "micoo-c5235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224676065631:android:4ab2588bce249c73e306ea",
+        "android_client_info": {
+          "package_name": "com.mecoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk06-CgvZb-iSNd7T-NTfVtn93PqVE-3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
